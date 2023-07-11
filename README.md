@@ -1,4 +1,6 @@
 ### Soy tonto
+<h3>Estudiante de Universidad Rafael Landivar</h3>
+<h3>Ingeniería en Informática y Sistemas primer año</h3>
 
 <!--
 **apoque96/apoque96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
